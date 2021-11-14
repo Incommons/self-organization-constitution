@@ -8,7 +8,7 @@ Check out the [Citizen Code Example Constitution](citizen-code-constitution-exam
 
 ### Principles
 
-* **Distribute Authority** - Members are free to take actions that further the organization's purpose by default.
+* **Distribute Authority** - Members are free to take actions that further the organization's purpose by default until they are not.
 * **Evolve** - Define organizational rules and roles iteratively based on the challenges that members experience. Make progress even over perfection.
 * **Evidence** - Base decisions and actions on evidence.
 
